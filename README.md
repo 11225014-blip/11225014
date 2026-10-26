@@ -1,4 +1,4 @@
-# 如何使用Google Colab免费算力训练自己的模型_google colab算力
+# 如何使用Google Colab免費算力訓練自己的模型_google colab算力
 
 ## 一、專案介紹
 
